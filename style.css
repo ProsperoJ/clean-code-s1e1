@@ -165,6 +165,6 @@ body {
   width: 224px;
 }
 
-.section .list.edit-mode label {
+.edit-mode .task {
   display: none;
 }
